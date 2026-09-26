@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @blastbraker
-- 🌱 I’m currently learning ML and Embedded Systems
+- 🌱 I’m currently learning Hardware Development and Embedded Systems
 - 💞️ I’m looking to collaborate on nothing at the moment 
 - 📫 How to reach me alialibahar12@gmail.com / alibahar@vt.edu
